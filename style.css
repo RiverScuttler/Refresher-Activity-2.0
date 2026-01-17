@@ -280,6 +280,11 @@ body{
 
     .heading-container{text-align: center;}
     .project-card{flex-direction: column;}
+    .project-img{
+        width: 100%;
+        height: auto;
+        aspect-ratio: 16/9;
+    }
 
 }
 
